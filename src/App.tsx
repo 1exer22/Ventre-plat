@@ -19,6 +19,7 @@ import { useEffect } from "react";
 
 const HomePage = () => (
   <div className="min-h-screen bg-white">
+    <TikTokPixel />
     <Header />
     <HeroSection />
     <ProblemSection />
